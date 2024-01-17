@@ -1,0 +1,13 @@
+/* Global style (Body) for 3-index.html */
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #484848;
+	font-size: 14px;
+	font-family: Circular, "Helvetica Neue", Arial, sans-serif;
+    /*background-image: url('../images/icon.png'); /* Adjust the path based on your folder structure 
+    background-repeat: no-repeat;
+    background-position: 10px 10px;
+    */
+}
